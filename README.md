@@ -1,1 +1,1 @@
-# snake-game-vanillaJS
+# snake-game-JS
